@@ -153,6 +153,6 @@ This project is licensed under the MIT License.
 
 **Yuvika Garg**
 
-GitHub:[https://github.com/yuvikagarg/RetailMart_ETL_Pipeline/new/main]
+GitHub: https://github.com/yuvikagarg
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
