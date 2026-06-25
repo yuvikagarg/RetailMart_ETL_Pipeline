@@ -1,0 +1,17 @@
+sale_id,store_id,product_id,quantity,sale_date,amount,product_name,category,price,store_name,city,region,total_revenue
+S001,ST01,P001,5.0,2026-06-01,2500.0,Laptop,Electronics,50000.0,RetailMart Jaipur Central,Jaipur,North,250000.0
+S002,ST02,P003,2.0,2026-06-01,900.0,Keyboard,Electronics,450.0,RetailMart Delhi Hub,Delhi,North,900.0
+S003,ST03,P002,0.0,2026-06-01,1200.0,Wireless Mouse,Electronics,600.0,RetailMart Mumbai West,Mumbai,West,0.0
+S005,ST04,P005,1.0,2026-06-02,1500.0,Office Chair,Furniture,1500.0,RetailMart Bangalore Tech,Bangalore,South,1500.0
+S006,ST02,P006,4.0,2026-06-02,2000.0,Study Table,Furniture,500.0,RetailMart Delhi Hub,Delhi,North,2000.0
+S007,ST05,P007,2.0,2026-06-03,800.0,Notebook,Stationery,400.0,RetailMart Kolkata East,Kolkata,East,800.0
+S008,ST03,P008,0.0,2026-06-03,3000.0,Printer,Electronics,1500.0,RetailMart Mumbai West,Mumbai,West,0.0
+S009,ST01,P009,6.0,2026-06-03,1800.0,Water Bottle,Home,300.0,RetailMart Jaipur Central,Jaipur,North,1800.0
+S010,ST04,P010,3.0,2026-06-04,2100.0,Backpack,Bags,700.0,RetailMart Bangalore Tech,Bangalore,South,2100.0
+S011,ST05,P001,2.0,2026-06-04,1000.0,Laptop,Electronics,50000.0,RetailMart Kolkata East,Kolkata,East,100000.0
+S012,ST02,P002,1.0,2026-06-04,600.0,Wireless Mouse,Electronics,600.0,RetailMart Delhi Hub,Delhi,North,600.0
+S014,ST06,P004,5.0,2026-06-05,2500.0,Headphones,Electronics,500.0,RetailMart Pune City,Pune,West,2500.0
+S015,ST01,P011,2.0,2026-06-05,999.0,Unknown,Unknown,0.0,RetailMart Jaipur Central,Jaipur,North,0.0
+S016,ST04,P006,4.0,,2000.0,Study Table,Furniture,500.0,RetailMart Bangalore Tech,Bangalore,South,2000.0
+S017,ST05,P007,3.0,2026-06-06,1200.0,Notebook,Stationery,400.0,RetailMart Kolkata East,Kolkata,East,1200.0
+S018,ST02,P008,2.0,2026-06-06,3000.0,Printer,Electronics,1500.0,RetailMart Delhi Hub,Delhi,North,3000.0
